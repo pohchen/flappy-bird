@@ -1,8 +1,7 @@
-Flappy Math Saga
+Flappy Bird 
 =========
 A Flappy Bird clone that teaches you times tables and arithmetic. 
 
-This is a personal project. It is not yet functional or suitable for use by the public.
 
 Credits
 ------
